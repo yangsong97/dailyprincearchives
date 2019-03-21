@@ -5,5 +5,7 @@ Textual Analysis of Daily Princetonian Archives
 Adviser: Dr. Brian Kernighan
 
 Report - 
+
 Presentation - 
+
 Poster - 
