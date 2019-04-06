@@ -11,8 +11,6 @@ Visualization tools of relative frequency counts for words and phrases are also 
 
 [Report](report.pdf)
 
-Presentation - 
+[Presentation](IW Presentation.pdf)
 
-Poster - 
-
-Here is
+[Poster](IW_Poster.pdf)
